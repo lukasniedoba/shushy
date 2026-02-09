@@ -559,7 +559,7 @@ function buildScreenshotPath(lang, key) {
   if (!file) {
     return "";
   }
-  return `../screenshots/${folder}/${encodeURIComponent(file)}`;
+  return `./screenshots/${folder}/${encodeURIComponent(file)}`;
 }
 
 function updateScreenshots(lang) {
