@@ -1,0 +1,49 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="106" y1="72" x2="1092" y2="688" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#667EEA" />
+      <stop offset="1" stop-color="#764BA2" />
+    </linearGradient>
+    <linearGradient id="card" x1="200" y1="192" x2="1004" y2="640" gradientUnits="userSpaceOnUse">
+      <stop stop-color="rgba(255, 255, 255, 0.24)" />
+      <stop offset="1" stop-color="rgba(255, 255, 255, 0.08)" />
+    </linearGradient>
+  </defs>
+  <rect x="32" y="24" width="1136" height="712" rx="48" fill="url(#bg)" />
+  <rect x="95" y="86" width="1010" height="588" rx="36" fill="#0F1423" fill-opacity="0.48" />
+  <rect x="140" y="142" width="920" height="476" rx="26" fill="url(#card)" stroke="rgba(255, 255, 255, 0.2)" />
+  <text x="190" y="208" fill="#FFFFFF" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="34" font-weight="700">
+    Shushy
+  </text>
+  <text x="190" y="246" fill="rgba(255, 255, 255, 0.84)" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="20">
+    Calm player preview
+  </text>
+
+  <rect x="190" y="284" width="300" height="252" rx="22" fill="rgba(255, 255, 255, 0.08)" stroke="rgba(255, 255, 255, 0.16)" />
+  <circle cx="340" cy="374" r="58" fill="rgba(255, 255, 255, 0.2)" />
+  <circle cx="340" cy="374" r="34" fill="rgba(255, 255, 255, 0.3)" />
+  <text x="274" y="470" fill="#FFFFFF" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="22" font-weight="600">
+    Rain
+  </text>
+  <text x="242" y="500" fill="rgba(255, 255, 255, 0.78)" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="16">
+    Sleep timer 45 min
+  </text>
+
+  <rect x="526" y="284" width="490" height="110" rx="20" fill="rgba(255, 255, 255, 0.1)" stroke="rgba(255, 255, 255, 0.16)" />
+  <text x="562" y="336" fill="#FFFFFF" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="24" font-weight="600">
+    One-tap calming sounds
+  </text>
+  <text x="562" y="366" fill="rgba(255, 255, 255, 0.8)" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="16">
+    Favorites, timer, fade-out, background playback
+  </text>
+
+  <rect x="526" y="412" width="490" height="124" rx="20" fill="rgba(255, 255, 255, 0.1)" stroke="rgba(255, 255, 255, 0.16)" />
+  <rect x="562" y="452" width="184" height="46" rx="23" fill="rgba(255, 255, 255, 0.22)" />
+  <text x="596" y="482" fill="#FFFFFF" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="16" font-weight="600">
+    App Store
+  </text>
+  <rect x="764" y="452" width="216" height="46" rx="23" fill="rgba(255, 255, 255, 0.08)" stroke="rgba(255, 255, 255, 0.16)" />
+  <text x="824" y="482" fill="rgba(255, 255, 255, 0.88)" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="16" font-weight="600">
+    Blog
+  </text>
+</svg>
